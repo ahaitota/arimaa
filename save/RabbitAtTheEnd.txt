@@ -1,0 +1,1 @@
+1g Ra1 Rb1 Rc1 Rd1 Re1 Rf1 Rg1 Rh1 Da2 Hb2 Cc2 Ed2 Me2 Cf2 Hg2 Dh2 1s da7 hb7 cc7 md7 ee7 cf7 hg7 dh7 ra8 rb8 rc8 rd8 re8 rf8 rg8 rh8 2g Hg2n Hg3n Hg4e Rg1n 2s cf7s cf6x hg7w hf7s hf6x rg8s 3g Rg2n Rg3n Rg4n Rg5n 3s rg7w rf7s rf6x dh7w dg7w 4g Rg6n 4s df7s df6x rf8s rf7s rf6x rh8w 5g Dh2n 5s rg8w rf8s rf7s rf6x 6g G1477 S1470 298

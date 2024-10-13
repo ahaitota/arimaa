@@ -1,0 +1,10 @@
+.DS_Store
+
+arimaa/target/classes/com/pjv/Controller/GameController.class
+arimaa/target/classes/com/pjv/Helpers/Check.class
+arimaa/target/classes/com/pjv/Model/Board.class
+arimaa/target/classes/com/pjv/Model/Piece.class
+arimaa/target/classes/com/pjv/Model/Piece$Colors.class
+arimaa/target/classes/com/pjv/Model/Piece$Pieces.class
+arimaa/target/classes/com/pjv/View/MenuView.class
+arimaa/target/classes/com/pjv/View/NewGameView.class

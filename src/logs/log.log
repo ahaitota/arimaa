@@ -1,0 +1,42 @@
+2024-05-21 17:18:03 INFO  com.pjv.Controller.GameController - Initializing GameController
+2024-05-21 17:18:04 INFO  com.pjv.Controller.GameController - GameController initialized successfully
+2024-05-21 17:18:05 INFO  com.pjv.Controller.GameController - The game is loading
+2024-05-21 17:18:07 INFO  com.pjv.Helpers.LoadGame - The file to load was chosen
+2024-05-21 17:18:07 INFO  com.pjv.Helpers.LoadGame - Selected file: /Users/alinahaitota/Desktop/OI/PJV/semestral/haitoali/arimaa/save/goldenrabbitsdead.txt
+2024-05-21 17:18:07 INFO  com.pjv.Controller.GameController - Loading saved game from /Users/alinahaitota/Desktop/OI/PJV/semestral/haitoali/arimaa/save/goldenrabbitsdead.txt
+2024-05-21 17:18:07 INFO  com.pjv.Helpers.LoadGame - Started reading file
+2024-05-21 17:18:07 INFO  com.pjv.Controller.GameController - Changing player
+2024-05-21 17:18:07 INFO  com.pjv.Controller.GameController - Changing player
+2024-05-21 17:18:07 INFO  com.pjv.Controller.GameController - Changing player
+2024-05-21 17:18:07 INFO  com.pjv.Controller.GameController - Changing player
+2024-05-21 17:18:07 INFO  com.pjv.Controller.GameController - Changing player
+2024-05-21 17:18:07 INFO  com.pjv.Controller.GameController - Changing player
+2024-05-21 17:18:07 INFO  com.pjv.Controller.GameController - Changing player
+2024-05-21 17:18:07 INFO  com.pjv.Controller.GameController - Changing player
+2024-05-21 17:18:07 INFO  com.pjv.Controller.GameController - Changing player
+2024-05-21 17:18:07 INFO  com.pjv.Controller.GameController - Changing player
+2024-05-21 17:18:07 INFO  com.pjv.Controller.GameController - Changing player
+2024-05-21 17:18:07 INFO  com.pjv.Controller.GameController - Changing player
+2024-05-21 17:18:07 INFO  com.pjv.Controller.GameController - Changing player
+2024-05-21 17:18:07 INFO  com.pjv.Controller.GameController - Changing player
+2024-05-21 17:18:07 INFO  com.pjv.Controller.GameController - Starting game
+2024-05-21 17:18:07 INFO  com.pjv.Controller.GameController - Timer is working
+2024-05-21 17:18:07 INFO  com.pjv.Helpers.Clock - Time is running
+2024-05-21 17:18:11 INFO  com.pjv.Controller.GameController - Changing player
+2024-05-21 17:18:11 INFO  com.pjv.Helpers.Clock - Timer was reseted
+2024-05-21 17:18:11 INFO  com.pjv.Controller.GameController - Changing player
+2024-05-21 17:18:11 INFO  com.pjv.Helpers.Clock - Timer was reseted
+2024-05-21 17:18:11 INFO  com.pjv.Helpers.ComputerPlayer - Computer Player finished turn
+2024-05-21 17:19:39 INFO  com.pjv.Controller.GameController - Initializing GameController
+2024-05-21 17:19:39 INFO  com.pjv.Controller.GameController - GameController initialized successfully
+2024-05-21 17:19:40 INFO  com.pjv.Controller.GameController - The game is loading
+2024-05-21 17:19:42 INFO  com.pjv.Helpers.LoadGame - The file to load was chosen
+2024-05-21 17:19:42 INFO  com.pjv.Helpers.LoadGame - Selected file: /Users/alinahaitota/Desktop/OI/PJV/semestral/haitoali/arimaa/save/here.txt
+2024-05-21 17:19:42 INFO  com.pjv.Controller.GameController - Loading saved game from /Users/alinahaitota/Desktop/OI/PJV/semestral/haitoali/arimaa/save/here.txt
+2024-05-21 17:19:42 INFO  com.pjv.Helpers.LoadGame - Started reading file
+2024-05-21 17:19:42 INFO  com.pjv.Controller.GameController - Changing player
+2024-05-21 17:19:42 INFO  com.pjv.Controller.GameController - Changing player
+2024-05-21 17:19:42 INFO  com.pjv.Controller.GameController - Changing player
+2024-05-21 17:19:42 INFO  com.pjv.Controller.GameController - Starting game
+2024-05-21 17:19:42 INFO  com.pjv.Controller.GameController - Timer is working
+2024-05-21 17:19:42 INFO  com.pjv.Helpers.Clock - Time is running
