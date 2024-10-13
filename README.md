@@ -1,33 +1,15 @@
-Semestrální práce Arimaa
+Semester Project: Arimaa
 
-Téma:
-Cílem semestrální práce je implementovat deskovou hru Arimaa v
-programovacím jazyce Java. 
+Topic: The goal of the semester project is to implement the board game Arimaa in the Java programming language.
 
-Arimaa je strategická hra pro dva hráče,která vychází z konceptu 
-šachů, ale s vlastními pravidly a zajímavýmitaktickými možnostmi. 
-Hlavním cílem je vytvořit plnohodnotnou hru s uživatelsky přívětivým 
-rozhraním a možností hrát proti počítači.
+Arimaa is a strategic game for two players that is based on the concept of chess but with its own rules and interesting tactical possibilities. The main objective is to create a fully functional game with a user-friendly interface and the ability to play against the computer.
 
-Grafické uživatelské rozhraní (GUI):
-Hráči budou mít možnost pohodlně interagovat s hrou prostřednictvím
-intuitivního grafického rozhraní.
-Zobrazení herní desky a herního stavu.
+Graphical User Interface (GUI): Players will have the ability to comfortably interact with the game through an intuitive graphical interface. The board and game state will be displayed.
 
-Herní mechanismus:
-Implementace pravidel hry Arimaa, včetně pohybu figurek a speciálních
-schopností.
-Podpora tahů hráče, validace jejich správnosti a implementace hracích
-hodin pro sledování času stráveného přemýšlením každým hráčem.
+Game Mechanism: Implementation of the rules of Arimaa, including the movement of pieces and special abilities. Support for player moves, validation of their correctness, and the implementation of a game clock to track the time spent thinking by each player.
 
-Umělá inteligence:
-Vytvoření algoritmu pro umělou inteligenci, která dokáže hrát hru Arimaa
-proti hráči s generátorem 1 až 4 náhodných přípustných tahů.
+Artificial Intelligence: Creation of an algorithm for artificial intelligence capable of playing the game Arimaa against the player, with a generator of 1 to 4 random legal moves.
 
-Ukládání stavu hry:
-Možnost ukládání a načítání rozehraných her a možnost odkrokování
-hry po jednotlivých tazích.
+Saving Game States: Ability to save and load ongoing games, and the option to step back through the game move by move.
 
-Možnost hry mezi dvěma hráči:
-Implementace možnosti, aby dva hráči mohli hrát proti sobě na stejném
-počítači.
+Multiplayer Mode: Implementation of the option for two players to play against each other on the same computer.
